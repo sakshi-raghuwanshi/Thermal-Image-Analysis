@@ -6,7 +6,7 @@ This repo relies on the [thermal_base python package](https://github.com/detectt
 [![Quality check](https://github.com/detecttechnologies/Thermal_Image_Analysis/actions/workflows/qualitycheck.yml/badge.svg)](https://github.com/detecttechnologies/Thermal_Image_Analysis/actions)
 
 ## Features
-
+# sakshi 
 <p align="center"><img src="assets/images/main.gif" /><br/>Main menu</p>
 
 ### Spot marking, line measurement and area marking
